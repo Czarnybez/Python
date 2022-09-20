@@ -13,6 +13,7 @@ def main():
 
     print('w tym miejscu zacznie sie nowa galaz')
     print('second brench')
+    print('no to testujemy pulla')
 
 
     odp = [f"co ty jeszcze robisz w wupie!!, w {random.choice(propPraca)} jest wone miejsce",   #odp[0]
