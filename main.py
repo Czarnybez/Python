@@ -11,6 +11,8 @@ def main():
     propPraca = ['CIA', 'FBI', 'KGB']
 
 
+    print('w tym miejscu zacznie sie nowa galaz')
+
 
     odp = [f"co ty jeszcze robisz w wupie!!, w {random.choice(propPraca)} jest wone miejsce",   #odp[0]
            "puk puk zostal jeden roczek do zmiany pracy !! ",                                   #odp[1]
